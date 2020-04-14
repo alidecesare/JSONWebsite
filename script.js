@@ -21,31 +21,37 @@ let jsonDatabase = [
   {
     "title" : "Leah",
     "picture_url" : "mom.jpg",
-    "favorite_color" : "#ff0000",
-    "skills" : ["trying to stay organized and keep the house clean", "has kind of given up herself but still wants everyone else to do housework", "lowkey kind of freaking out about the pandemic and won't let anyone leave the house"]
+    "favorite_color" : "#000000",
+    "skills" : ["trying to stay organized and keep the house clean", "spending the extra time home writing a book", "lowkey kind of freaking out about the pandemic and won't let anyone leave the house"]
   },
   {
     "title" : "Nick",
     "picture_url" : "dad.jpg",
-    "favorite_color" : "#ff0000",
+    "favorite_color" : "#000000",
     "skills" : ["is truly just happy to have his family around so much and that everyone is safe", "lots of hugs", "manages the pandemic by cooking a lot."]
   },
   {
     "title" : "Anna",
     "picture_url" : "anna.jpg",
-    "favorite_color" : "#ff0000",
-    "skills" : ["misses her friends a lot and is always on the phone talking to them", "knows every single tiktok dance", "takes a lot of \"breaks\" from school work to watch tiktoks"]
+    "favorite_color" : "#000000",
+    "skills" : ["misses her friends a lot and is always on the phone talking to them", "knows every single tiktok dance", "bothers everyone when they're trying to get work done because she has nothing else to do"]
   },
   {
     "title" : "Michael",
     "picture_url" : "michael.png",
-    "favorite_color" : "#ff0000",
-    "skills" : ["pretty used to being inside anyway so not much has changed", "has become completely nocturnal which is great", "eats ALL THE SNACKS IN THE HOUSE"]
+    "favorite_color" : "#000000",
+    "skills" : ["pretty used to being inside anyway so not much has changed", "has become completely nocturnal and spends his time awake in the basement playing video games", "eats ALL THE SNACKS IN THE HOUSE"]
+  },
+  {
+    "title" : "Piper",
+    "picture_url" : "piper.jpg",
+    "favorite_color" : "#000000",
+    "skills" : ["has no idea why everyone is home so much now", "cute screeches", "always wants treats because he's a good boy"]
   },
   {
     "title" : "Ali",
     "picture_url" : "ali.jpg",
-    "favorite_color" : "#ff0000",
+    "favorite_color" : "#000000",
     "skills" : ["locks herself in her room for at least 9 hours a day to \"do homework\"", "has become obsessed with the Tiger King series and won't shut up about it", "complains about not being in New York but is also lowkey kind of scared to go back until corona is gone"]
   }
 
